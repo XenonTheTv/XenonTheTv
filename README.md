@@ -1,0 +1,5 @@
+- 📺 I'm Xenon; I'm an amateur programmer.
+- 🐍 My primary language is Python.
+- 💾 I have basic programming knowledge in Java, C++, HTML and CSS.
+- 🖥️ I want to be a Software Security Engineer.
+- 📱 I am currently learning how to create and manage mobile applications.
