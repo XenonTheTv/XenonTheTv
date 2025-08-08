@@ -2,9 +2,9 @@ Hey, I'm Xenon!
 
 Pronunciation: (Zee-non) or (Zen-on)
 
-Aliases: XenonTheProot, XenonTheTv, Aeolus
+Aliases: XenonTheProot, XenonTheTv
 
-Pronouns: Any
+Pronouns: Idk
 
 
 I am new to programming, I have taken classes for Java and Python, but I am still very clueless. I would like to get some hands-on expirience.
